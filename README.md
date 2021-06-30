@@ -5,5 +5,5 @@ ReactJS .NET Front End
 
 *Node
 *npm
-*Visual Studio
+*Visual Studio Code
 *Prettier
